@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files
+Estava com o erro: ./src/styles.css - Error: Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js)
+para resolver foi mudado o caminho do bootstrap src/-bootstrap
+*/
+@import '-bootstrap/bootstrap/dist/css/bootstrap.min.css'
+
